@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "@code-fellows/supergoose": "^1.0.11",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jest": "^26.6.3",
+    "mongoose": "^5.12.5",
+    "node": "^15.14.0",
+    "nodemon": "^2.0.7",
+    "supertest": "^6.1.3"
+  },
+  "name": "day-four-demo.md",
+  "description": "day-four-demo.md",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --watchAll",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JTaisey389/day-four-demo.md.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JTaisey389/day-four-demo.md/issues"
+  },
+  "homepage": "https://github.com/JTaisey389/day-four-demo.md#readme"
+}
